@@ -8,8 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSJantana&layout=compact&langs_count=16&theme=dark"/>  
 </div>
 
-  ![Snake animation](https://github.com/MSJantana/MSJantana/blob/output/github-contribution-grid-snake.svg)
+  
  
+ <div>
  <h3> 🛠 &nbsp;Estudando as Seguintes Tecnologias</h3>
  
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
@@ -20,8 +21,10 @@
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
+  
+ ![Snake animation](https://github.com/MSJantana/MSJantana/blob/output/github-contribution-grid-snake.svg)
  
- 
+ </div>
  
 <!---
 MSJantana/MSJantana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
