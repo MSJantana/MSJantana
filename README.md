@@ -18,7 +18,7 @@
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"> </code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
  </div>
