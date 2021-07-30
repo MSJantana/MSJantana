@@ -22,9 +22,10 @@
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code> 
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> </code> 
   
-  
+ 
   
  </div>
  
