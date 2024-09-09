@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/MSJantana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MSJantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSJantana&layout=compact&langs_count=16&theme=dark"/>  
+   <img height="180em" ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MSJantana&show_icons=true&theme=radical)/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSJantana&layout=compact&langs_count=16&theme=dark"/>  
 </div>
 
   
