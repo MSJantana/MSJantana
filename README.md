@@ -8,6 +8,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSJantana&layout=compact&langs_count=16&theme=dark"/>  
 </div>
 
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSJantana)](https://github.com/MSJantana/github-readme-stats)
   
  
  <div style="display: inline_block"><br>
