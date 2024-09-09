@@ -4,12 +4,16 @@
 
  <div>
   <a href="https://github.com/MSJantana">
-   <img height="180em" ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MSJantana&show_icons=true&theme=radical)/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSJantana&layout=compact&langs_count=16&theme=dark"/>  
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MSJantana&show_icons=true&theme=radical"/>-->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSJantana&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+
+  <a href="https://github.com/MSJantana/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MSJantana&theme=moltack&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSJantana"/>
+  </a>
 </div>
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSJantana&theme=moltack&show_icons=true)](https://github.com/MSJantana/github-readme-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSJantana)](https://github.com/MSJantana/github-readme-stats)
   
  <div style="display: inline_block"><br>
  <h3> 🛠 &nbsp;Estudando as Seguintes Tecnologias</h3>
